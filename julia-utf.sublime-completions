@@ -1,8 +1,8 @@
 {
-    "scope": "source.julia",
+	"scope": "source.julia",
 
-    "completions": [
-        {"trigger": "\\textexclamdown", "contents": "¡" },
+	"completions": [
+		{"trigger": "\\textexclamdown", "contents": "¡" },
 		{"trigger": "\\sterling", "contents": "£" },
 		{"trigger": "\\yen", "contents": "¥" },
 		{"trigger": "\\textbrokenbar", "contents": "¦" },
@@ -2452,5 +2452,5 @@
 		{"trigger": "\\mttseven", "contents": "𝟽" },
 		{"trigger": "\\mtteight", "contents": "𝟾" },
 		{"trigger": "\\mttnine", "contents": "𝟿"}
-    ]
+	]
 }
