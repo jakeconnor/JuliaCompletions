@@ -1,5 +1,5 @@
 {
-	"scope": "source.julia",
+	"scope": "source.julia keyword.operator.arithmetic.julia",
 
 	"completions": [
 		{"trigger": "\\textexclamdown", "contents": "¡" },
