@@ -1,0 +1,6 @@
+{
+    // Triggers auto complete after a backslash
+    "auto_complete_triggers": [
+        {"selector": "source.julia", "characters": "\\"}
+    ]
+}
